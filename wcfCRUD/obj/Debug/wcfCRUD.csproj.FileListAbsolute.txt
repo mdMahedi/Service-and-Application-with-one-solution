@@ -1,0 +1,5 @@
+D:\Class\Service\wcfCRUD\wcfCRUD\bin\wcfCRUD.dll.config
+D:\Class\Service\wcfCRUD\wcfCRUD\bin\wcfCRUD.dll
+D:\Class\Service\wcfCRUD\wcfCRUD\bin\wcfCRUD.pdb
+D:\Class\Service\wcfCRUD\wcfCRUD\obj\Debug\wcfCRUD.dll
+D:\Class\Service\wcfCRUD\wcfCRUD\obj\Debug\wcfCRUD.pdb
